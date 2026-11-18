@@ -18,4 +18,3 @@ private:
 		const std::string& few,
 		const std::string& many);
 };
-
